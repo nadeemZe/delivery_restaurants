@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a delivery app UI developed with Flutter.
+## This project is a delivery app UI developed with Flutter.
 
 ![1](https://user-images.githubusercontent.com/84441265/167265977-a316c3e3-e482-4f4e-9498-4d90a5d54d12.jpg)
   -gif image
