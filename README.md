@@ -7,6 +7,7 @@ A new Flutter project.
 <img src="images/screenshot1.png" width="200" height="300" /> <img src="images/screenshot2.png" width="200" height="300" /> <img src="images/screenshot3.png" width="200" height="300" />
 
 <img src="images/screenshot4.png" width="200" height="300" /> <img src="images/screenshot5.png" width="200" height="300" />
+
   -gif image
   
  -valueNotifier to hide and show bottomNavigationBar icons when scrolling up and down
