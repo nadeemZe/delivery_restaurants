@@ -8,11 +8,11 @@ A new Flutter project.
 
 <img src="images/screenshot4.png" width="200" height="300" /> <img src="images/screenshot5.png" width="200" height="300" />
 
-  -gif image
+ *gif image for onboarding screens.
   
- -valueNotifier to hide and show bottomNavigationBar icons when scrolling up and down
+ *valueNotifier to hide and show bottomNavigationBar icons when scrolling up and down
 
- -Animated positioned with transformscale to create drawer animation
+ *Animated positioned with transformscale to create drawer animation
 
 
 ## To see other projects developed by me :
